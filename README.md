@@ -1,5 +1,5 @@
 # ALYRA---Blockchain
-Formation ALYRA - Développeur Blockchain et Smart Contracts.
+Formation ALYRA - Développeur Blockchain et Smart Contract.
 
 
 Modalité : Présentiel (Centre AFPA, 8 rue Georges et Mai Politzer, 75012, Paris).
