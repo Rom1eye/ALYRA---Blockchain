@@ -1,5 +1,5 @@
 # Ecole ALYRA
-                                            Accéder -> https://alyra.fr
+Accéder -> https://alyra.fr
 
 ![screenshot](screenshot.png)
 
